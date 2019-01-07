@@ -1,1 +1,2 @@
-# humpback_whale
+Use Res_net:50
+Socre : 0.6
